@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Navigation Listener</string>
+    <string name="service_name">Navigation Notification Listener</string>
+    <string name="notification_access_required">Notification access is required</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="last_navigation_instruction">Last navigation instruction will appear here</string>
+</resources> 
